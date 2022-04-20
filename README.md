@@ -24,13 +24,20 @@ This will contain links or descriptions of what I did ordered by the actual time
 - Finally decided to set up a test network 
   - *Log in to places using Ledger through Metamask on Brave browser !!! important!!!* other combinations tend to fail
   - Used a tap to get some eth and buy iosifv.eth for 20 years on Ropstein network
-- Create an NFT
-  - Signed up properly on OpenSea [opensea/iosif](https://opensea.io/iosifv)
-  - used [MintNFT.today](https://mintnft.today/) to mind an NFT (ERC-721) on Polygon
-  - used [MintNFT.today](https://mintnft.today/) to mind an NFT (ERC-1155) on Polygon
-  - Spent ages "finding" it - discovered it can be seen under the hidden tab in OpenSea
--  
+- Started lessons on [CryptoZombie](https://cryptozombies.io/en/)
 
+## NFT Related stuff ##
+  - Signed up properly on OpenSea [opensea/iosif](https://opensea.io/iosifv)
+  - ### Polygon ####
+    - used [MintNFT.today](https://mintnft.today/) to mind an NFT (ERC-721) on Polygon
+    - used [MintNFT.today](https://mintnft.today/) to mind an NFT (ERC-1155) on Polygon
+    - Spent ages "finding" it - discovered it can be seen under the hidden tab in OpenSea
+  - ### Solana ###
+    - Created a new Phantom wallet (Metamask equivalent) and [attached my Ledger account](https://help.phantom.app/hc/en-us/articles/4406388670483-How-to-use-your-Ledger-Nano-hardware-wallet) to it.
+    - Started snooping around on [HowRare](https://howrare.is/drops) based on a TikTok I saw...
+    - Found [AsciiPunk](https://asciipunk.com/) a collection of 10k NFT's which look like the crypto punks but are made with ascii characters. First 7500 are supposed to be free, the last 2500 are 0.05 SOL. I managed to buy 3 of them but from the latter paid tier
+    - I can use [ZooKeeper personal account](https://zookeeper.club/HLWyETriYHngExC3VtWJYCXj8Jq27YSYPr69TMhCxh4r) to view my collection
+    - Also [MagicEden](https://www.magiceden.io/) works to view your stuff
 
 ## Useful personal links ##
 - ENS domain I'll be using: [iosifv.eth](http://iosifv.eth)
@@ -41,6 +48,7 @@ This will contain links or descriptions of what I did ordered by the actual time
 - [iosifv.eth friendly xyz link](https://iosifv.eth.xyz/)
 - [IPNS Link](ipns://k51qzi5uqu5dm5307szdfmpqlb7b7nsggqmgho2yff91rl5mpqbpziqtb8gsds)
 - [iosifv.eth friendly .limo link](https://iosifv.eth.limo/) - for some reason this used to work with the ipns link set as content !?
+- [iosifv.eth friendly fleek link](https://iosifv.on.fleek.co/)
 - []()
 - []()
 
@@ -58,7 +66,7 @@ This will contain links or descriptions of what I did ordered by the actual time
 - [web3.university](https://www.web3.university/)
 - [freecodecamp - solidity search](https://www.freecodecamp.org/news/search/?query=solidity)
 - [cryptozombies](https://cryptozombies.io/)
-- [Twitter ENS registration bot](https://twitter.com/ensregistry)
+- [Twitter ENS registration bot](https://twitter.com/dwebsitesbot)
 - []()
 - []()
 
