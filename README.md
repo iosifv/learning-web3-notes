@@ -36,9 +36,11 @@ This will contain links or descriptions of what I did ordered by the actual time
     - Created a new Phantom wallet (Metamask equivalent) and [attached my Ledger account](https://help.phantom.app/hc/en-us/articles/4406388670483-How-to-use-your-Ledger-Nano-hardware-wallet) to it.
     - Started snooping around on [HowRare](https://howrare.is/drops) based on a TikTok I saw...
     - Found [AsciiPunk](https://asciipunk.com/) a collection of 10k NFT's which look like the crypto punks but are made with ascii characters. First 7500 are supposed to be free, the last 2500 are 0.05 SOL. I managed to buy 3 of them but from the latter paid tier
-    - I can use [ZooKeeper personal account](https://zookeeper.club/HLWyETriYHngExC3VtWJYCXj8Jq27YSYPr69TMhCxh4r) to view my collection
-    - Also [MagicEden](https://www.magiceden.io/) works to view your stuff
-
+    - To view my collection I can use
+      - [MagicEden](https://www.magiceden.io/)
+      - [ZooKeeper (link to personal account)](https://zookeeper.club/HLWyETriYHngExC3VtWJYCXj8Jq27YSYPr69TMhCxh4r)
+    - Umm... These ones look cute AF: [MetaWorms](https://metawormnft.com/#home)
+  
 ## Useful personal links ##
 - ENS domain I'll be using: [iosifv.eth](http://iosifv.eth)
 - [Etherscan link for iosifv.eth](https://etherscan.io/address/0x2807dceb543909a9173df3c3cb703f9447e6b771)
