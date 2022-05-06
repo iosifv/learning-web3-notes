@@ -53,11 +53,9 @@ This will contain links or descriptions of what I did ordered by the actual time
 - [iosifv.eth friendly fleek link](https://iosifv.on.fleek.co/)
 - []()
 - []()
-
-
-## Todo ##
-- mint an NFT on Ethereum Testnet on Opensea
-- try to link the opensea NFT to the ens domain
+  
+## Useful Tools ##
+- Testnet Faucets: [ChainLink Faucets](https://faucets.chain.link/)
 
 
 ## Link dump ##
@@ -74,12 +72,12 @@ This will contain links or descriptions of what I did ordered by the actual time
 
 
 ## Youtube link dump ##
-- [Build OpenSea Blockchain Web 3.0 App with Next.js | Sanity.io | thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k)
+- [Build OpenSea Blockchain Web 3.0 App with Next.js, Sanity.io, thirdweb](https://www.youtube.com/watch?v=x3eRXeMB-4k)
 - [Deploy a Simple NFT in Solidity](https://www.youtube.com/watch?v=ZH_7nEIJDUY)
 - [I Cloned OpenSea in 2 Hours - Building a Cross-Chain NFT Marketplace FULL COURSE](https://www.youtube.com/watch?v=WZWCzsB1xUE&ab_channel=MoralisWeb3)
 - [How to Become a Blockchain Engineer](https://www.youtube.com/watch?v=e1N4aWIJMN0) - pretty inspiring!
+- [Smart Contract Developer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 - []()
-- 
 
 
 ## Random info ##
@@ -89,8 +87,6 @@ Polygon network on Metamask:
 - Chain ID: 137
 - Currency Symbol (optional): MATIC
 - Block Explorer URL (optional): https://polygonscan.com/
-
-
 
 ### Contribution guidelines ###
 
