@@ -4,9 +4,13 @@ This repository contains valuable web3 resources I personally used or simply jus
 
 ### What is in here? ###
 
-This contains any kind of Tutorials / Tools / Resources that I found. 
+This contains any kind of Tutorials / Tools / Resources that I found and/or used. 
 
 ## My personal journey ##
+
+- 2022.05.26 - Amazing video on [How to become a Smart Contract Engineer in 2021](https://www.youtube.com/watch?v=WFjeWP148jM&ab_channel=SmartContractProgrammer)
+
+## My First steps to bootstrap this new field ##
 
 This will contain links or descriptions of what I did ordered by the actual timeline I did these things in:
 - Started following Patrick Collins on this video: [Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
@@ -25,6 +29,7 @@ This will contain links or descriptions of what I did ordered by the actual time
   - *Log in to places using Ledger through Metamask on Brave browser !!! important!!!* other combinations tend to fail
   - Used a tap to get some eth and buy iosifv.eth for 20 years on Ropstein network
 - Started lessons on [CryptoZombie](https://cryptozombies.io/en/)
+  - Finished chapters: Solidity Path, Chainlink Path, Advanced Solidity Path
 
 ## NFT Related stuff ##
   - Signed up properly on OpenSea [opensea/iosif](https://opensea.io/iosifv)
@@ -57,6 +62,9 @@ This will contain links or descriptions of what I did ordered by the actual time
 ## Useful Tools ##
 - Testnet Faucets: [ChainLink Faucets](https://faucets.chain.link/)
 
+## Udemy:  ##
+- Free Course: [Build a Dapp using Solidity, Hardhat and React](https://www.udemy.com/course/blockchain-build-a-dapp-using-solidity-hardhat-and-react/)
+
 
 ## Link dump ##
 - [AlchemyAPI](https://dashboard.alchemyapi.io/) - some kind of AWS for web3
@@ -77,7 +85,7 @@ This will contain links or descriptions of what I did ordered by the actual time
 - [I Cloned OpenSea in 2 Hours - Building a Cross-Chain NFT Marketplace FULL COURSE](https://www.youtube.com/watch?v=WZWCzsB1xUE&ab_channel=MoralisWeb3)
 - [How to Become a Blockchain Engineer](https://www.youtube.com/watch?v=e1N4aWIJMN0) - pretty inspiring!
 - [Smart Contract Developer](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
-- []()
+- [Building a Full Web3 Mint Website for Beginners, React, Hardhat, Ethers, and Chakra](https://www.youtube.com/watch?v=ynFNLBP2TPs&ab_channel=EdRoh)
 
 
 ## Random info ##
