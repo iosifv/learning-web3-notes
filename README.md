@@ -8,9 +8,11 @@ This contains any kind of Tutorials / Tools / Resources that I found and/or used
 
 ## My personal journey ##
 
-- 2022.05.26 - Amazing video on [How to become a Smart Contract Engineer in 2021](https://www.youtube.com/watch?v=WFjeWP148jM&ab_channel=SmartContractProgrammer)
+- 2022.05.26 
+  - Amazing video on [How to become a Smart Contract Engineer in 2021](https://www.youtube.com/watch?v=WFjeWP148jM&ab_channel=SmartContractProgrammer). This contains youtube and twitter accounts to follow, w
+    - direct link to the [Coggle map](https://coggle.it/diagram/YCzP1lR6dWF3jfas/t/ethereum-smart-contract-engineer-2021) from the video
 
-## My First steps to bootstrap this new field ##
+## My first steps to bootstrap this new field ##
 
 This will contain links or descriptions of what I did ordered by the actual timeline I did these things in:
 - Started following Patrick Collins on this video: [Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
