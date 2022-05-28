@@ -11,6 +11,8 @@ This contains any kind of Tutorials / Tools / Resources that I found and/or used
 - 2022.05.26 
   - Amazing video on [How to become a Smart Contract Engineer in 2021](https://www.youtube.com/watch?v=WFjeWP148jM&ab_channel=SmartContractProgrammer). This contains youtube and twitter accounts to follow, w
     - direct link to the [Coggle map](https://coggle.it/diagram/YCzP1lR6dWF3jfas/t/ethereum-smart-contract-engineer-2021) from the video
+- 2022.05.28
+  - Started following these 2 tutorials from Patrick Collins: [What is a DAO](https://www.youtube.com/watch?v=X_QKZzd68ro) and [How to build an on-chain DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
 
 ## My first steps to bootstrap this new field ##
 
