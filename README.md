@@ -13,7 +13,10 @@ This contains any kind of Tutorials / Tools / Resources that I found and/or used
     - direct link to the [Coggle map](https://coggle.it/diagram/YCzP1lR6dWF3jfas/t/ethereum-smart-contract-engineer-2021) from the video
 - 2022.05.28
   - Started following these 2 tutorials from Patrick Collins: [What is a DAO](https://www.youtube.com/watch?v=X_QKZzd68ro) and [How to build an on-chain DAO](https://www.youtube.com/watch?v=AhJtmUqhAqg)
-
+- 2022.05.31
+  - Finished folowing the video and created scripts on the previously mentioned tutorial from Patrick
+  - I keep getting an error on function ```deployGovernorContract``` : ```cannot estimate gas; transaction may fail or may require manual gas limit``` so because of this I Can't actually do a ```yarn hardhat deploy```
+  
 ## My first steps to bootstrap this new field ##
 
 This will contain links or descriptions of what I did ordered by the actual timeline I did these things in:
