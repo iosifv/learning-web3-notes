@@ -16,8 +16,7 @@ This contains any kind of Tutorials / Tools / Resources that I found and/or used
 - 2022.05.31
   - Finished folowing the video and created scripts on the previously mentioned tutorial from Patrick
   - I keep getting an error on function ```deployGovernorContract``` : ```cannot estimate gas; transaction may fail or may require manual gas limit``` so because of this I Can't actually do a ```yarn hardhat deploy```
-  - I went through this other cool video collection [Hardhat Tutorials | NFT OpenZeppelin ERC721
-](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4)
+  - I went through this other cool video collection [Hardhat Tutorials | NFT OpenZeppelin ERC721](https://www.youtube.com/playlist?list=PLw-9a9yL-pt3sEhicr6gmuOQdcmWXhCx4)
   
 ## My first steps to bootstrap this new field ##
 
