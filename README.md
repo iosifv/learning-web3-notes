@@ -39,6 +39,12 @@ This will contain links or descriptions of what I did ordered by the actual time
 - Started lessons on [CryptoZombie](https://cryptozombies.io/en/)
   - Finished chapters: Solidity Path, Chainlink Path, Advanced Solidity Path
 
+## Node as a service ##
+  - Alchemy
+  - Moralis
+  - Infura
+
+
 ## NFT Related stuff ##
   - Signed up properly on OpenSea [opensea/iosif](https://opensea.io/iosifv)
   - ### Polygon ####
@@ -84,7 +90,17 @@ This will contain links or descriptions of what I did ordered by the actual time
 - [cryptozombies](https://cryptozombies.io/)
 - [Twitter ENS registration bot](https://twitter.com/dwebsitesbot)
 - [NFT Generator](https://nft-generator.art/app)
+- [Chainlist](https://chainlist.org/)
+- [Rekt top hacks on blockchain](https://rekt.news/leaderboard/)
+- [https://nft.storage/](https://nft.storage/)
+- [ipns://web3.storage/](ipns://web3.storage/)
+- [https://docs.textile.io/powergate/](https://docs.textile.io/powergate/)
+- [https://orbitdb.org/](https://orbitdb.org/)
+- [https://proto.school/](https://proto.school/)
+- [ipns://nftschool.dev/](ipns://nftschool.dev/)
 - []()
+- []()
+
 
 
 ## Youtube link dump ##
