@@ -123,3 +123,5 @@ Polygon network on Metamask:
 ### Contribution guidelines ###
 
 * Submit a merge request or simply email me on eth@iosifv.com if you have any suggestions 
+
+[changed repo name]
